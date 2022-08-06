@@ -14,3 +14,5 @@ Open the program if you haven't already, click on the button located at the top 
 The main part of this program, playing on hidden maps in Private Battle! 
 
 First, open the program if you haven't already, click on the button located on the top right (Region), it will show a little menu containing 3 regions, select the region your Splatoon copy is from, after that, click on the button located at the top left, it will show a little menu containg all hidden maps playable on privte battles, select the map you want to play in, after that, click on the button located at the bottom right (Select Map), a messagebox will show up, it is necessary to read it if this is your first time using this, and done! Everything should be working now. Boot up Splatoon on Cemu and make a private battle (you need to be the one to make it), then open Memory Searcher (On the top of the screen, click Tools > Memory searcher), keep it always open for the hidden map to load, wait for your friend to join the private battle, set the teams and now the map should load.
+
+![Logo](https://cdn.discordapp.com/attachments/1004906957871779940/1005619184840998922/unknown.png)
