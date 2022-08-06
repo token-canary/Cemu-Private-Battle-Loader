@@ -1,5 +1,7 @@
 # HiddenMaps_Cemu
 Allows users playing Splatoon with Cemu to go on maps meant for single-player in private battles.
+
+
 ![Logo](https://cdn.discordapp.com/attachments/1004906957871779940/1005619184840998922/unknown.png)
 
 
