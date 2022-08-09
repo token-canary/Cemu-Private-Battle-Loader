@@ -9,4 +9,4 @@ Allows users playing Splatoon with Cemu to go on maps meant for single-player in
 Download the executable program (.exe) from the release tab and place it in the same folder where Cemu.exe is located at.
 
 # Usage
-##### **Tutorial will be made soon.**
+*Tutorial will be made soon.*
