@@ -1,9 +1,9 @@
+# Hidden Maps for Cemu
+Allows users playing Splatoon with Cemu to go on maps meant for single-player in private battles.
+
 - [Hidden Maps for Cemu](#hidden-maps-for-cemu)
   - [Downloading](#downloading)
   - [Usage](#usage)
-
-# Hidden Maps for Cemu
-Allows users playing Splatoon with Cemu to go on maps meant for single-player in private battles.
 
 # Downloading
 Download the executable program (.exe) from the release tab and place it in the same folder where Cemu.exe is located at.
