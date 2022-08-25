@@ -1,5 +1,5 @@
 # Cemu Private Battle Loader
-Allows users playing Splatoon with Cemu to go on maps meant for single-player in private battles.
+Allows users playing Splatoon with Cemu to go on maps that aren't meant to be played online in private battles.
 
 - [Cemu Private Battle Loader](#cemu-private-battle-loader)
   - [Downloading](#downloading)
