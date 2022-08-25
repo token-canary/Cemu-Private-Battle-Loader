@@ -1,7 +1,7 @@
-# Hidden Maps for Cemu
+# Cemu Private Battle Loader
 Allows users playing Splatoon with Cemu to go on maps meant for single-player in private battles.
 
-- [Hidden Maps for Cemu](#hidden-maps-for-cemu)
+- [Cemu Private Battle Loader](#cemu-private-battle-loader)
   - [Downloading](#downloading)
   - [Usage](#usage)
 
