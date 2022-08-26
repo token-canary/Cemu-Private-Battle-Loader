@@ -11,4 +11,4 @@ Download the executable program (.exe) from the release tab and place it in the 
 # Usage
 *Tutorial will be made soon.*
 
-![Logo](https://media.discordapp.net/attachments/1004906957871779940/1012429770086170634/unknown.png)
+![Logo](https://media.discordapp.net/attachments/1011658864137080923/1012541030987464814/unknown.png)
