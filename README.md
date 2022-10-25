@@ -45,4 +45,4 @@ After you press the **"Select Map** button, make sure you have Memory Searcher o
 Once a match starts, make sure to close Memory Searcher, and when that same match ends, use the program and then open Memory Searcher, it should work.
 
 # Bug Reports
-**If you ever spot a bug, please create a new issue! (https://github.com/token-canary/Cemu_PrivateBattleLoader_TEST/issues), also make sure to look at the FAQ!**
+**If you ever spot a bug, please create a new issue! (https://github.com/token-canary/Cemu_PrivateBattleLoader/issues), also make sure to look at the FAQ!**
