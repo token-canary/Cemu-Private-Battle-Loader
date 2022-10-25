@@ -46,6 +46,3 @@ Once a match starts, make sure to close Memory Searcher, and when that same matc
 
 # Bug Reports
 If you ever spot a bug, please create a [new issue](https://github.com/token-canary/Cemu_PrivateBattleLoader/issues), also make sure to look at the FAQ!
-
-# Contribution
-
