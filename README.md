@@ -10,6 +10,7 @@ Allows users playing Splatoon with Cemu to go on maps that aren't meant to be pl
   - [Usage](#usage)
   - [FAQ](#faq)
   - [Bug Reports](#bug-reports)
+  - [Known Issues](#known-issues)
 
 # Downloading
 Download the executable program *(.exe)* from the release tab and place it in the same folder where *Cemu.exe* is located at.
@@ -26,11 +27,11 @@ After downloading the program and putting it on the Cemu folder, you can now ope
 ## Can you get banned for this?
 It is not possible to be banned for using this program, **make sure you are not using any Static.pack edit/Model edit that modifies one of the maps listed in the program.**
 
-## (FOR v2.0.1) ~~I clicked the *"Set First 4 Players to Alpha"* checkbox but it isn't working!~~
-~~Make sure you have clicked the checkbox in either the stage select menu or the team select menu and see if Memory Searcher is open **(Cemu [Top Bar]>Tools>Memory Searcher)**~~
+## I clicked the *"Set First 4 Players to Alpha"* checkbox but it isn't working!
+Make sure you have clicked the checkbox in either the stage select menu or the team select menu and see if Memory Searcher is open **(Cemu [Top Bar]>Tools>Memory Searcher)**
 
-## (FOR v2.0.1) ~~I clicked the *"Set First 4 Players to Alpha"* checkbox and all players are set to Alpha but I can't click the set teams button!~~
-~~Change the teams until you are able to press the button, after that, the first 4 players in the private battle will be on Team Alpha even if you set one of them/some to Team Bravo.~~
+## I clicked the *"Set First 4 Players to Alpha"* checkbox and all players are set to Alpha but I can't click the set teams button!
+Change the teams until you are able to press the button, after that, the first 4 players in the private battle will be on Team Alpha even if you set one of them/some to Team Bravo.
 
 ## Everybody crashed once the match started!
 Make sure the mode is **Turf war** and that you did not select these stages: **Plaza**, **Octo Valley**.
@@ -46,3 +47,6 @@ Once a match starts, make sure to close Memory Searcher, and when that same matc
 
 # Bug Reports
 If you ever spot a bug, please create a [new issue](https://github.com/token-canary/Cemu_PrivateBattleLoader/issues), also make sure to look at the FAQ!
+
+# Known Issues
+In **v2.0.1**, setting a map without the 4 players patch and then setting another map with the 4 players patch will cause the addresses to corrupt, to avoid this issue; **once you want to use the 4 players patch after setting a map without the patch, press the wipe addresses button, and then you can set a map with the patch.**
