@@ -19,7 +19,7 @@ Download the executable program *(.exe)* from the release tab and place it in th
 After downloading the program and putting it on the Cemu folder, you can now open the program (Make sure you are already on a Private Battle), if you have messed with addresses in cemu before; select your region on the dropdown (located at the top right of the window) and then press the **"MemorySearcher Backup"** button, you should see a message saying that the backup is successful. Select your map at the dropdown located at the top left of the window (Do not select Plaza or Octo Valley unless you know what you are doing) and if you have not selected your region yet, at the top right of the window there is a dropdown, select the region of your splatoon copy and then press the **"Select Map** button (Make sure you have memory searcher closed before pressing the button), it should say that it was successful, you can now open memory searcher **(Cemu [Top Bar]>Tools>Memory Searcher)** and set the teams to play on the map! (Note that in most of these maps, Team Bravo does not have a spawn! So they will fall to their death the entire match. In the next update there will be an option to set the first 4 players to always be in Team Alpha even if no one is in Team Bravo)
 
 </p>
-  <img src="https://media.discordapp.net/attachments/1023648075937497110/1034278775409614899/unknown.png" alt="Cemu PB Loader"/>
+  <img src="https://media.discordapp.net/attachments/1023648075937497110/1037036078219133058/unknown.png" alt="Cemu PB Loader"/>
 </p>
 
 # FAQ
